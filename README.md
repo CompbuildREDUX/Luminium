@@ -10,6 +10,54 @@ Luminium has Sodium, Nvidium, Iris, and other performance mods to help provide m
 ### Compatible with Vanilla
 Luminium adds no content to the game itself, meaning you can use it without corrupting your worlds.
 
+### Mods List
+<details>
+<summary>Click me to view the mods list</summary>
+
+- Continuity
+- Xaero's Minimap
+- YetAnotherConfigLib
+- WorldEdit
+- Fabrishot
+- [EMF] Entity Model Features
+- More Culling
+- Immortal Coral
+- Pick Block Pro
+- More Chat History
+- Cloth Config API
+- Sodium
+- [ETF] Entity Texture Features
+- Custom Splash Screen
+- Fabric Language Kotlin
+- Konkrete
+- OptiGUI
+- Server Country Flags
+- Bobby
+- Memory Leak Fix
+- WorldEdit CUI
+- Xaero's World Map
+- ReplayMod
+- Indium
+- Fabric API
+- Nvidium
+- AlinLib
+- Iris Shaders
+- MidnightLib
+- Krypton
+- Lithium
+- LazyDFU
+- Mod Menu
+- Better Statistics Screen
+- Camera Utils
+- FerriteCore
+- Custom FOV
+- Zoomify
+- LambDynamicLights
+
+<\details>
+
 ## Compbuild
 
 Luminium was designed for Compbuild Textures and its Minecraft server, but you are free to use it without Compbuild.
+
+
