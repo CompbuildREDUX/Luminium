@@ -34,7 +34,6 @@ Luminium adds no content to the game itself, meaning you can use it without corr
 - Server Country Flags
 - Bobby
 - Memory Leak Fix
-- WorldEdit CUI
 - Xaero's World Map
 - ReplayMod
 - Indium
@@ -53,8 +52,7 @@ Luminium adds no content to the game itself, meaning you can use it without corr
 - Custom FOV
 - Zoomify
 - LambDynamicLights
-
-<\details>
+- Reese's Sodium Options
 
 ## Compbuild
 
